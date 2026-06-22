@@ -14,7 +14,7 @@
 
     "host":  "localhost",
     "user":  "root",
-    "password": "Akshaya@123",
+    "password": "",
     "database": "ELT_PROJECT",
     "table_name": "currency_exchange_rate",
     
