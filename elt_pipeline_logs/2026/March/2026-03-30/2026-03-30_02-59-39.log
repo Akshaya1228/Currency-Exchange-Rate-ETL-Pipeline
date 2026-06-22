@@ -1,5 +1,0 @@
-2026-03-30 02:59:39,452 | INFO | Manual trigger activated at 2026-03-30. Running the ETL pipeline.
-2026-03-30 02:59:39,453 | INFO | Starting the ETL pipeline and the trigger: manual.
-2026-03-30 02:59:39,861 | INFO | url used to fetch the API is : https://api.frankfurter.dev/v1/2026-03-30..?base=USD
-2026-03-30 02:59:39,861 | ERROR | Failed to fetch data from API. Status code: 404
-2026-03-30 02:59:39,861 | ERROR | Data fetching failed. Exiting the ETL pipeline.

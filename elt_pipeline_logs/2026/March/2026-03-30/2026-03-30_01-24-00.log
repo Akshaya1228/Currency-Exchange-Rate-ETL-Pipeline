@@ -1,1 +1,0 @@
-2026-03-30 01:24:00,888 | ERROR | ETL pipeline failed with error: module 'datetime' has no attribute 'now' 
