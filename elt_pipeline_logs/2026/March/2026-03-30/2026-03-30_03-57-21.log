@@ -1,0 +1,5 @@
+2026-03-30 03:57:21,415 | INFO | Scheduled trigger activated at 2026-03-30. Running the ETL pipeline.
+2026-03-30 03:57:21,416 | INFO | Starting the ETL pipeline and the trigger: schedule.
+2026-03-30 03:57:21,472 | INFO | url used to fetch the API is : https://api.frankfurter.dev/v1/2026-03-30..?base=USD
+2026-03-30 03:57:21,472 | ERROR | Failed to fetch data from API. Status code: 404
+2026-03-30 03:57:21,472 | ERROR | Data fetching failed. Exiting the ETL pipeline.

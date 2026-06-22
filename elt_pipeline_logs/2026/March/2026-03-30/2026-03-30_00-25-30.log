@@ -1,0 +1,21 @@
+2026-03-30 00:25:30,841 | INFO | url used to fetch the API is : https://api.frankfurter.dev/v1/2026-03-27..2026-03-28?base=USD
+2026-03-30 00:25:30,841 | INFO | Data saved successfully to new_raw_data.json
+2026-03-30 00:25:30,842 | INFO | Raw data loaded successfully from the file new_raw_data.json.
+2026-03-30 00:25:30,843 | INFO | 2026-03-27.json is saved to Historic_raw_data folder and the currencies got are 29.
+2026-03-30 00:25:30,848 | INFO | Data flattened successfully for date: 2026-03-27
+2026-03-30 00:25:30,850 | INFO | Flattened data saved to 2026-03-27.csv in Silver/flattened_data folder.
+2026-03-30 00:25:30,854 | INFO | cleaned data is saved to clean_data_2026-03-30_00-25-30.csv in Silver. The number of rows in clean data are 29.
+2026-03-30 00:25:30,854 | INFO | error data is saved to error_data_2026-03-30_00-25-30.csv in Silver. The number of rows in error data are 0.
+2026-03-30 00:25:30,889 | INFO | Using ELT_PROJECT Database.
+2026-03-30 00:25:30,891 | INFO | currency_exchange_rate table created successfully and got committed.
+2026-03-30 00:25:30,901 | INFO | Rows got successfully inserted into currency_exchange_rate and the rows got inserted are 29.
+2026-03-30 00:25:31,409 | INFO | KPI-1 is successfully created.
+2026-03-30 00:25:31,747 | INFO | KPI-2 is successfully created.
+2026-03-30 00:25:31,959 | INFO | KPI-3 is successfully created.
+2026-03-30 00:25:32,063 | INFO | KPI-4 is successfully created.
+2026-03-30 00:25:32,144 | INFO | KPI-5 is successfully created.
+2026-03-30 00:25:32,332 | INFO | KPI-6 is successfully created.
+2026-03-30 00:25:32,499 | INFO | KPI-7 is successfully created.
+2026-03-30 00:25:32,500 | INFO | All KPIs have been calculated and stored in the database.
+2026-03-30 00:25:32,501 | INFO | ETL pipeline completed successfully.
+2026-03-30 00:25:32,501 | ERROR | ETL pipeline failed with error: [Errno 2] No such file or directory: 'ELT_PROJECT_2/config_hash.txt' 

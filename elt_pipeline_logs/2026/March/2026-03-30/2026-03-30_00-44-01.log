@@ -1,0 +1,4 @@
+2026-03-30 00:44:01,268 | INFO | Config File has changed. date: 2026-03-30 00:44:01
+2026-03-30 00:44:15,575 | ERROR | Error occurred while fetching data from API: Response ended prematurely
+2026-03-30 00:44:15,576 | ERROR | Data fetching failed. Exiting the ETL pipeline.
+2026-03-30 00:44:15,576 | ERROR | ETL pipeline failed during execution . Check the logs for more details.

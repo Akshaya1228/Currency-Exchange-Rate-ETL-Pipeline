@@ -1,0 +1,19 @@
+2026-03-29 22:59:10,378 | INFO | url used to fetch the API is : https://api.frankfurter.dev/v1/2026-03-27..2026-03-28?base=USD
+2026-03-29 22:59:10,378 | INFO | Data saved successfully to new_raw_data.json
+2026-03-29 22:59:10,380 | INFO | 2026-03-27.json is saved to Historic_raw_data folder.
+2026-03-29 22:59:10,386 | INFO | Data flattened successfully for date: 2026-03-27
+2026-03-29 22:59:10,389 | INFO | Flattened data saved to 2026-03-27.csv in Silver/flattened_data folder.
+2026-03-29 22:59:10,394 | INFO | cleaned data is saved to clean_data_2026-03-29_22-59-10.csv in Silver.
+2026-03-29 22:59:10,394 | INFO | error data is saved to error_data_2026-03-29_22-59-10.csv in Silver
+2026-03-29 22:59:10,430 | INFO | Using ELT_PROJECT Database.
+2026-03-29 22:59:10,432 | INFO | currency_exchange_rate table created successfully.
+2026-03-29 22:59:10,438 | INFO | Rows got successfully inserted into currency_exchange_rate .
+2026-03-29 22:59:10,930 | INFO | KPI-1 is successfully created.
+2026-03-29 22:59:11,261 | INFO | KPI-2 is successfully created.
+2026-03-29 22:59:11,471 | INFO | KPI-3 is successfully created.
+2026-03-29 22:59:11,576 | INFO | KPI-4 is successfully created.
+2026-03-29 22:59:11,657 | INFO | KPI-5 is successfully created.
+2026-03-29 22:59:11,833 | INFO | KPI-6 is successfully created.
+2026-03-29 22:59:11,995 | INFO | KPI-7 is successfully created.
+2026-03-29 22:59:11,995 | INFO | All KPIs have been calculated and stored in the database.
+2026-03-29 22:59:11,996 | ERROR | ETL pipeline failed during execution.

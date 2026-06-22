@@ -1,0 +1,3 @@
+date,base_currency,currency,exchange_rate,error_reason
+2026-03-10,USD,CAAD,1.3553,Length of currency is not 3.
+2026-03-10,USD,CF,0.77545,Length of currency is not 3.

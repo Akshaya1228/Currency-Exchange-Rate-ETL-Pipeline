@@ -1,0 +1,24 @@
+2026-03-30 00:42:02,091 | INFO | Config File has changed. date: 2026-03-30 00:42:02
+2026-03-30 00:42:02,655 | INFO | url used to fetch the API is : https://api.frankfurter.dev/v1/2026-03-26..2026-03-27?base=USD
+2026-03-30 00:42:02,658 | INFO | Data saved successfully to new_raw_data.json
+2026-03-30 00:42:02,662 | INFO | Raw data loaded successfully from the file new_raw_data.json.
+2026-03-30 00:42:02,665 | INFO | 2026-03-26.json is saved to Historic_raw_data folder and the currencies got are 29.
+2026-03-30 00:42:02,666 | INFO | 2026-03-27.json is saved to Historic_raw_data folder and the currencies got are 29.
+2026-03-30 00:42:02,680 | INFO | Data flattened successfully for date: 2026-03-26
+2026-03-30 00:42:02,686 | INFO | Flattened data saved to 2026-03-26.csv in Silver/flattened_data folder.
+2026-03-30 00:42:02,690 | INFO | Data flattened successfully for date: 2026-03-27
+2026-03-30 00:42:02,691 | INFO | Flattened data saved to 2026-03-27.csv in Silver/flattened_data folder.
+2026-03-30 00:42:02,700 | INFO | cleaned data is saved to clean_data_2026-03-30_00-42-02.csv in Silver. The number of rows in clean data are 58.
+2026-03-30 00:42:02,700 | INFO | No error data found after applying the rules.
+2026-03-30 00:42:02,752 | INFO | Using ELT_PROJECT Database.
+2026-03-30 00:42:02,780 | INFO | currency_exchange_rate table created successfully and got committed.
+2026-03-30 00:42:02,805 | INFO | Rows got successfully inserted into currency_exchange_rate and the rows got inserted are 58.
+2026-03-30 00:42:02,825 | INFO | KPI-1 is successfully created.
+2026-03-30 00:42:02,843 | INFO | KPI-2 is successfully created.
+2026-03-30 00:42:02,859 | INFO | KPI-3 is successfully created.
+2026-03-30 00:42:02,886 | INFO | KPI-4 is successfully created.
+2026-03-30 00:42:02,903 | INFO | KPI-5 is successfully created.
+2026-03-30 00:42:02,918 | INFO | KPI-6 is successfully created.
+2026-03-30 00:42:02,934 | INFO | KPI-7 is successfully created.
+2026-03-30 00:42:02,935 | INFO | All KPIs have been calculated and stored in the database.
+2026-03-30 00:42:02,935 | INFO | ETL pipeline completed successfully.

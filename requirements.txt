@@ -1,0 +1,4 @@
+requests
+pandas
+pathlib
+mysql-connector-python

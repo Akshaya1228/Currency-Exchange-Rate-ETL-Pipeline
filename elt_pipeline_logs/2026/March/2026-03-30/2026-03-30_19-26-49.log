@@ -1,0 +1,11 @@
+2026-03-30 19:26:49,354 | INFO | Pipelie Run By : Akshaya
+2026-03-30 19:26:49,354 | INFO | Project Name : Currency_Exchange_Rate_Pipeline
+2026-03-30 19:26:49,354 | INFO | Time : 2026-03-30 19:26:49.354534
+2026-03-30 19:26:49,354 | INFO | --------------------------------------------------------------------------------------------------------------------------
+2026-03-30 19:26:49,354 | INFO | Manual trigger activated at 2026-03-30. Running the ETL pipeline.
+2026-03-30 19:26:49,354 | INFO | Starting the ETL pipeline and the trigger: manual.
+2026-03-30 19:26:49,772 | INFO | url used to fetch the API is : https://api.frankfurter.dev/v1/2026-03-10..2026-03-10?base=USD
+2026-03-30 19:26:49,772 | INFO | Data saved successfully to new_raw_data.json
+2026-03-30 19:27:49,784 | INFO | Raw data loaded successfully from the file new_raw_data.json.
+2026-03-30 19:27:49,784 | ERROR | An error occurred during the ETL pipeline execution: 'rates'
+2026-03-30 19:27:49,784 | ERROR | ETL pipeline execution failed .

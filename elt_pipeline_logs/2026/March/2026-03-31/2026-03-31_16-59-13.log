@@ -1,0 +1,285 @@
+2026-03-31 16:59:13,999 | INFO | Pipelie Run By : Akshaya
+2026-03-31 16:59:13,999 | INFO | Project Name : Currency_Exchange_Rate_Pipeline
+2026-03-31 16:59:13,999 | INFO | Time : 2026-03-31 16:59:13.999463
+2026-03-31 16:59:13,999 | INFO | --------------------------------------------------------------------------------------------------------------------------
+2026-03-31 16:59:13,999 | INFO | Manual trigger activated at 2026-03-31. Running the ETL pipeline.
+2026-03-31 16:59:13,999 | INFO | Starting the ETL pipeline and the trigger: manual.
+2026-03-31 16:59:14,610 | INFO | url used to fetch the API is : https://api.frankfurter.dev/v1/2002-02-01..2002-06-01?base=USD
+2026-03-31 16:59:14,615 | INFO | Data saved successfully to new_raw_data.json
+2026-03-31 16:59:29,623 | INFO | Raw data loaded successfully from the file new_raw_data.json.
+2026-03-31 16:59:29,626 | INFO | 2002-02-01.json is saved to Historic_raw_data folder and the currencies got are 28.
+2026-03-31 16:59:29,626 | INFO | 2002-02-04.json is saved to Historic_raw_data folder and the currencies got are 28.
+2026-03-31 16:59:29,626 | INFO | 2002-02-05.json is saved to Historic_raw_data folder and the currencies got are 28.
+2026-03-31 16:59:29,627 | INFO | 2002-02-06.json is saved to Historic_raw_data folder and the currencies got are 28.
+2026-03-31 16:59:29,627 | INFO | 2002-02-07.json is saved to Historic_raw_data folder and the currencies got are 28.
+2026-03-31 16:59:29,627 | INFO | 2002-02-08.json is saved to Historic_raw_data folder and the currencies got are 28.
+2026-03-31 16:59:29,628 | INFO | 2002-02-11.json is saved to Historic_raw_data folder and the currencies got are 28.
+2026-03-31 16:59:29,628 | INFO | 2002-02-12.json is saved to Historic_raw_data folder and the currencies got are 28.
+2026-03-31 16:59:29,628 | INFO | 2002-02-13.json is saved to Historic_raw_data folder and the currencies got are 28.
+2026-03-31 16:59:29,628 | INFO | 2002-02-14.json is saved to Historic_raw_data folder and the currencies got are 28.
+2026-03-31 16:59:29,629 | INFO | 2002-02-15.json is saved to Historic_raw_data folder and the currencies got are 28.
+2026-03-31 16:59:29,630 | INFO | 2002-02-18.json is saved to Historic_raw_data folder and the currencies got are 28.
+2026-03-31 16:59:29,630 | INFO | 2002-02-19.json is saved to Historic_raw_data folder and the currencies got are 28.
+2026-03-31 16:59:29,631 | INFO | 2002-02-20.json is saved to Historic_raw_data folder and the currencies got are 28.
+2026-03-31 16:59:29,631 | INFO | 2002-02-21.json is saved to Historic_raw_data folder and the currencies got are 28.
+2026-03-31 16:59:29,631 | INFO | 2002-02-22.json is saved to Historic_raw_data folder and the currencies got are 28.
+2026-03-31 16:59:29,632 | INFO | 2002-02-25.json is saved to Historic_raw_data folder and the currencies got are 28.
+2026-03-31 16:59:29,632 | INFO | 2002-02-26.json is saved to Historic_raw_data folder and the currencies got are 28.
+2026-03-31 16:59:29,632 | INFO | 2002-02-27.json is saved to Historic_raw_data folder and the currencies got are 28.
+2026-03-31 16:59:29,632 | INFO | 2002-02-28.json is saved to Historic_raw_data folder and the currencies got are 28.
+2026-03-31 16:59:29,633 | INFO | 2002-03-01.json is saved to Historic_raw_data folder and the currencies got are 28.
+2026-03-31 16:59:29,633 | INFO | 2002-03-04.json is saved to Historic_raw_data folder and the currencies got are 28.
+2026-03-31 16:59:29,634 | INFO | 2002-03-05.json is saved to Historic_raw_data folder and the currencies got are 28.
+2026-03-31 16:59:29,634 | INFO | 2002-03-06.json is saved to Historic_raw_data folder and the currencies got are 28.
+2026-03-31 16:59:29,634 | INFO | 2002-03-07.json is saved to Historic_raw_data folder and the currencies got are 28.
+2026-03-31 16:59:29,635 | INFO | 2002-03-08.json is saved to Historic_raw_data folder and the currencies got are 28.
+2026-03-31 16:59:29,635 | INFO | 2002-03-11.json is saved to Historic_raw_data folder and the currencies got are 28.
+2026-03-31 16:59:29,635 | INFO | 2002-03-12.json is saved to Historic_raw_data folder and the currencies got are 28.
+2026-03-31 16:59:29,636 | INFO | 2002-03-13.json is saved to Historic_raw_data folder and the currencies got are 28.
+2026-03-31 16:59:29,636 | INFO | 2002-03-14.json is saved to Historic_raw_data folder and the currencies got are 28.
+2026-03-31 16:59:29,636 | INFO | 2002-03-15.json is saved to Historic_raw_data folder and the currencies got are 28.
+2026-03-31 16:59:29,637 | INFO | 2002-03-18.json is saved to Historic_raw_data folder and the currencies got are 28.
+2026-03-31 16:59:29,637 | INFO | 2002-03-19.json is saved to Historic_raw_data folder and the currencies got are 28.
+2026-03-31 16:59:29,637 | INFO | 2002-03-20.json is saved to Historic_raw_data folder and the currencies got are 28.
+2026-03-31 16:59:29,638 | INFO | 2002-03-21.json is saved to Historic_raw_data folder and the currencies got are 28.
+2026-03-31 16:59:29,638 | INFO | 2002-03-22.json is saved to Historic_raw_data folder and the currencies got are 28.
+2026-03-31 16:59:29,639 | INFO | 2002-03-25.json is saved to Historic_raw_data folder and the currencies got are 28.
+2026-03-31 16:59:29,639 | INFO | 2002-03-26.json is saved to Historic_raw_data folder and the currencies got are 28.
+2026-03-31 16:59:29,639 | INFO | 2002-03-27.json is saved to Historic_raw_data folder and the currencies got are 28.
+2026-03-31 16:59:29,640 | INFO | 2002-03-28.json is saved to Historic_raw_data folder and the currencies got are 28.
+2026-03-31 16:59:29,640 | INFO | 2002-04-02.json is saved to Historic_raw_data folder and the currencies got are 28.
+2026-03-31 16:59:29,641 | INFO | 2002-04-03.json is saved to Historic_raw_data folder and the currencies got are 28.
+2026-03-31 16:59:29,641 | INFO | 2002-04-04.json is saved to Historic_raw_data folder and the currencies got are 28.
+2026-03-31 16:59:29,641 | INFO | 2002-04-05.json is saved to Historic_raw_data folder and the currencies got are 28.
+2026-03-31 16:59:29,641 | INFO | 2002-04-08.json is saved to Historic_raw_data folder and the currencies got are 28.
+2026-03-31 16:59:29,642 | INFO | 2002-04-09.json is saved to Historic_raw_data folder and the currencies got are 28.
+2026-03-31 16:59:29,642 | INFO | 2002-04-10.json is saved to Historic_raw_data folder and the currencies got are 28.
+2026-03-31 16:59:29,643 | INFO | 2002-04-11.json is saved to Historic_raw_data folder and the currencies got are 28.
+2026-03-31 16:59:29,643 | INFO | 2002-04-12.json is saved to Historic_raw_data folder and the currencies got are 28.
+2026-03-31 16:59:29,643 | INFO | 2002-04-15.json is saved to Historic_raw_data folder and the currencies got are 28.
+2026-03-31 16:59:29,643 | INFO | 2002-04-16.json is saved to Historic_raw_data folder and the currencies got are 28.
+2026-03-31 16:59:29,644 | INFO | 2002-04-17.json is saved to Historic_raw_data folder and the currencies got are 28.
+2026-03-31 16:59:29,644 | INFO | 2002-04-18.json is saved to Historic_raw_data folder and the currencies got are 28.
+2026-03-31 16:59:29,644 | INFO | 2002-04-19.json is saved to Historic_raw_data folder and the currencies got are 28.
+2026-03-31 16:59:29,644 | INFO | 2002-04-22.json is saved to Historic_raw_data folder and the currencies got are 28.
+2026-03-31 16:59:29,644 | INFO | 2002-04-23.json is saved to Historic_raw_data folder and the currencies got are 28.
+2026-03-31 16:59:29,645 | INFO | 2002-04-24.json is saved to Historic_raw_data folder and the currencies got are 28.
+2026-03-31 16:59:29,645 | INFO | 2002-04-25.json is saved to Historic_raw_data folder and the currencies got are 28.
+2026-03-31 16:59:29,645 | INFO | 2002-04-26.json is saved to Historic_raw_data folder and the currencies got are 28.
+2026-03-31 16:59:29,645 | INFO | 2002-04-29.json is saved to Historic_raw_data folder and the currencies got are 28.
+2026-03-31 16:59:29,645 | INFO | 2002-04-30.json is saved to Historic_raw_data folder and the currencies got are 28.
+2026-03-31 16:59:29,646 | INFO | 2002-05-02.json is saved to Historic_raw_data folder and the currencies got are 28.
+2026-03-31 16:59:29,646 | INFO | 2002-05-03.json is saved to Historic_raw_data folder and the currencies got are 28.
+2026-03-31 16:59:29,646 | INFO | 2002-05-06.json is saved to Historic_raw_data folder and the currencies got are 28.
+2026-03-31 16:59:29,647 | INFO | 2002-05-07.json is saved to Historic_raw_data folder and the currencies got are 28.
+2026-03-31 16:59:29,647 | INFO | 2002-05-08.json is saved to Historic_raw_data folder and the currencies got are 28.
+2026-03-31 16:59:29,647 | INFO | 2002-05-09.json is saved to Historic_raw_data folder and the currencies got are 28.
+2026-03-31 16:59:29,647 | INFO | 2002-05-10.json is saved to Historic_raw_data folder and the currencies got are 28.
+2026-03-31 16:59:29,647 | INFO | 2002-05-13.json is saved to Historic_raw_data folder and the currencies got are 28.
+2026-03-31 16:59:29,648 | INFO | 2002-05-14.json is saved to Historic_raw_data folder and the currencies got are 28.
+2026-03-31 16:59:29,648 | INFO | 2002-05-15.json is saved to Historic_raw_data folder and the currencies got are 28.
+2026-03-31 16:59:29,648 | INFO | 2002-05-16.json is saved to Historic_raw_data folder and the currencies got are 28.
+2026-03-31 16:59:29,648 | INFO | 2002-05-17.json is saved to Historic_raw_data folder and the currencies got are 28.
+2026-03-31 16:59:29,648 | INFO | 2002-05-20.json is saved to Historic_raw_data folder and the currencies got are 28.
+2026-03-31 16:59:29,649 | INFO | 2002-05-21.json is saved to Historic_raw_data folder and the currencies got are 28.
+2026-03-31 16:59:29,649 | INFO | 2002-05-22.json is saved to Historic_raw_data folder and the currencies got are 28.
+2026-03-31 16:59:29,649 | INFO | 2002-05-23.json is saved to Historic_raw_data folder and the currencies got are 28.
+2026-03-31 16:59:29,649 | INFO | 2002-05-24.json is saved to Historic_raw_data folder and the currencies got are 28.
+2026-03-31 16:59:29,649 | INFO | 2002-05-27.json is saved to Historic_raw_data folder and the currencies got are 28.
+2026-03-31 16:59:29,650 | INFO | 2002-05-28.json is saved to Historic_raw_data folder and the currencies got are 28.
+2026-03-31 16:59:29,650 | INFO | 2002-05-29.json is saved to Historic_raw_data folder and the currencies got are 28.
+2026-03-31 16:59:29,650 | INFO | 2002-05-30.json is saved to Historic_raw_data folder and the currencies got are 28.
+2026-03-31 16:59:29,650 | INFO | 2002-05-31.json is saved to Historic_raw_data folder and the currencies got are 28.
+2026-03-31 16:59:29,657 | INFO | Data flattened successfully for date: 2002-02-01
+2026-03-31 16:59:29,660 | INFO | Flattened data saved to 2002-02-01.csv in Silver/flattened_data folder.
+2026-03-31 16:59:29,661 | INFO | Data flattened successfully for date: 2002-02-04
+2026-03-31 16:59:29,661 | INFO | Flattened data saved to 2002-02-04.csv in Silver/flattened_data folder.
+2026-03-31 16:59:29,662 | INFO | Data flattened successfully for date: 2002-02-05
+2026-03-31 16:59:29,663 | INFO | Flattened data saved to 2002-02-05.csv in Silver/flattened_data folder.
+2026-03-31 16:59:29,664 | INFO | Data flattened successfully for date: 2002-02-06
+2026-03-31 16:59:29,665 | INFO | Flattened data saved to 2002-02-06.csv in Silver/flattened_data folder.
+2026-03-31 16:59:29,666 | INFO | Data flattened successfully for date: 2002-02-07
+2026-03-31 16:59:29,666 | INFO | Flattened data saved to 2002-02-07.csv in Silver/flattened_data folder.
+2026-03-31 16:59:29,667 | INFO | Data flattened successfully for date: 2002-02-08
+2026-03-31 16:59:29,668 | INFO | Flattened data saved to 2002-02-08.csv in Silver/flattened_data folder.
+2026-03-31 16:59:29,669 | INFO | Data flattened successfully for date: 2002-02-11
+2026-03-31 16:59:29,669 | INFO | Flattened data saved to 2002-02-11.csv in Silver/flattened_data folder.
+2026-03-31 16:59:29,670 | INFO | Data flattened successfully for date: 2002-02-12
+2026-03-31 16:59:29,670 | INFO | Flattened data saved to 2002-02-12.csv in Silver/flattened_data folder.
+2026-03-31 16:59:29,671 | INFO | Data flattened successfully for date: 2002-02-13
+2026-03-31 16:59:29,671 | INFO | Flattened data saved to 2002-02-13.csv in Silver/flattened_data folder.
+2026-03-31 16:59:29,672 | INFO | Data flattened successfully for date: 2002-02-14
+2026-03-31 16:59:29,672 | INFO | Flattened data saved to 2002-02-14.csv in Silver/flattened_data folder.
+2026-03-31 16:59:29,673 | INFO | Data flattened successfully for date: 2002-02-15
+2026-03-31 16:59:29,673 | INFO | Flattened data saved to 2002-02-15.csv in Silver/flattened_data folder.
+2026-03-31 16:59:29,674 | INFO | Data flattened successfully for date: 2002-02-18
+2026-03-31 16:59:29,674 | INFO | Flattened data saved to 2002-02-18.csv in Silver/flattened_data folder.
+2026-03-31 16:59:29,675 | INFO | Data flattened successfully for date: 2002-02-19
+2026-03-31 16:59:29,676 | INFO | Flattened data saved to 2002-02-19.csv in Silver/flattened_data folder.
+2026-03-31 16:59:29,676 | INFO | Data flattened successfully for date: 2002-02-20
+2026-03-31 16:59:29,677 | INFO | Flattened data saved to 2002-02-20.csv in Silver/flattened_data folder.
+2026-03-31 16:59:29,677 | INFO | Data flattened successfully for date: 2002-02-21
+2026-03-31 16:59:29,678 | INFO | Flattened data saved to 2002-02-21.csv in Silver/flattened_data folder.
+2026-03-31 16:59:29,679 | INFO | Data flattened successfully for date: 2002-02-22
+2026-03-31 16:59:29,679 | INFO | Flattened data saved to 2002-02-22.csv in Silver/flattened_data folder.
+2026-03-31 16:59:29,680 | INFO | Data flattened successfully for date: 2002-02-25
+2026-03-31 16:59:29,681 | INFO | Flattened data saved to 2002-02-25.csv in Silver/flattened_data folder.
+2026-03-31 16:59:29,682 | INFO | Data flattened successfully for date: 2002-02-26
+2026-03-31 16:59:29,683 | INFO | Flattened data saved to 2002-02-26.csv in Silver/flattened_data folder.
+2026-03-31 16:59:29,684 | INFO | Data flattened successfully for date: 2002-02-27
+2026-03-31 16:59:29,684 | INFO | Flattened data saved to 2002-02-27.csv in Silver/flattened_data folder.
+2026-03-31 16:59:29,685 | INFO | Data flattened successfully for date: 2002-02-28
+2026-03-31 16:59:29,685 | INFO | Flattened data saved to 2002-02-28.csv in Silver/flattened_data folder.
+2026-03-31 16:59:29,686 | INFO | Data flattened successfully for date: 2002-03-01
+2026-03-31 16:59:29,687 | INFO | Flattened data saved to 2002-03-01.csv in Silver/flattened_data folder.
+2026-03-31 16:59:29,688 | INFO | Data flattened successfully for date: 2002-03-04
+2026-03-31 16:59:29,689 | INFO | Flattened data saved to 2002-03-04.csv in Silver/flattened_data folder.
+2026-03-31 16:59:29,690 | INFO | Data flattened successfully for date: 2002-03-05
+2026-03-31 16:59:29,690 | INFO | Flattened data saved to 2002-03-05.csv in Silver/flattened_data folder.
+2026-03-31 16:59:29,691 | INFO | Data flattened successfully for date: 2002-03-06
+2026-03-31 16:59:29,692 | INFO | Flattened data saved to 2002-03-06.csv in Silver/flattened_data folder.
+2026-03-31 16:59:29,692 | INFO | Data flattened successfully for date: 2002-03-07
+2026-03-31 16:59:29,693 | INFO | Flattened data saved to 2002-03-07.csv in Silver/flattened_data folder.
+2026-03-31 16:59:29,693 | INFO | Data flattened successfully for date: 2002-03-08
+2026-03-31 16:59:29,694 | INFO | Flattened data saved to 2002-03-08.csv in Silver/flattened_data folder.
+2026-03-31 16:59:29,695 | INFO | Data flattened successfully for date: 2002-03-11
+2026-03-31 16:59:29,695 | INFO | Flattened data saved to 2002-03-11.csv in Silver/flattened_data folder.
+2026-03-31 16:59:29,696 | INFO | Data flattened successfully for date: 2002-03-12
+2026-03-31 16:59:29,696 | INFO | Flattened data saved to 2002-03-12.csv in Silver/flattened_data folder.
+2026-03-31 16:59:29,697 | INFO | Data flattened successfully for date: 2002-03-13
+2026-03-31 16:59:29,697 | INFO | Flattened data saved to 2002-03-13.csv in Silver/flattened_data folder.
+2026-03-31 16:59:29,698 | INFO | Data flattened successfully for date: 2002-03-14
+2026-03-31 16:59:29,698 | INFO | Flattened data saved to 2002-03-14.csv in Silver/flattened_data folder.
+2026-03-31 16:59:29,699 | INFO | Data flattened successfully for date: 2002-03-15
+2026-03-31 16:59:29,699 | INFO | Flattened data saved to 2002-03-15.csv in Silver/flattened_data folder.
+2026-03-31 16:59:29,700 | INFO | Data flattened successfully for date: 2002-03-18
+2026-03-31 16:59:29,701 | INFO | Flattened data saved to 2002-03-18.csv in Silver/flattened_data folder.
+2026-03-31 16:59:29,702 | INFO | Data flattened successfully for date: 2002-03-19
+2026-03-31 16:59:29,702 | INFO | Flattened data saved to 2002-03-19.csv in Silver/flattened_data folder.
+2026-03-31 16:59:29,703 | INFO | Data flattened successfully for date: 2002-03-20
+2026-03-31 16:59:29,703 | INFO | Flattened data saved to 2002-03-20.csv in Silver/flattened_data folder.
+2026-03-31 16:59:29,704 | INFO | Data flattened successfully for date: 2002-03-21
+2026-03-31 16:59:29,705 | INFO | Flattened data saved to 2002-03-21.csv in Silver/flattened_data folder.
+2026-03-31 16:59:29,705 | INFO | Data flattened successfully for date: 2002-03-22
+2026-03-31 16:59:29,706 | INFO | Flattened data saved to 2002-03-22.csv in Silver/flattened_data folder.
+2026-03-31 16:59:29,707 | INFO | Data flattened successfully for date: 2002-03-25
+2026-03-31 16:59:29,708 | INFO | Flattened data saved to 2002-03-25.csv in Silver/flattened_data folder.
+2026-03-31 16:59:29,708 | INFO | Data flattened successfully for date: 2002-03-26
+2026-03-31 16:59:29,709 | INFO | Flattened data saved to 2002-03-26.csv in Silver/flattened_data folder.
+2026-03-31 16:59:29,709 | INFO | Data flattened successfully for date: 2002-03-27
+2026-03-31 16:59:29,710 | INFO | Flattened data saved to 2002-03-27.csv in Silver/flattened_data folder.
+2026-03-31 16:59:29,710 | INFO | Data flattened successfully for date: 2002-03-28
+2026-03-31 16:59:29,711 | INFO | Flattened data saved to 2002-03-28.csv in Silver/flattened_data folder.
+2026-03-31 16:59:29,711 | INFO | Data flattened successfully for date: 2002-04-02
+2026-03-31 16:59:29,712 | INFO | Flattened data saved to 2002-04-02.csv in Silver/flattened_data folder.
+2026-03-31 16:59:29,713 | INFO | Data flattened successfully for date: 2002-04-03
+2026-03-31 16:59:29,714 | INFO | Flattened data saved to 2002-04-03.csv in Silver/flattened_data folder.
+2026-03-31 16:59:29,715 | INFO | Data flattened successfully for date: 2002-04-04
+2026-03-31 16:59:29,715 | INFO | Flattened data saved to 2002-04-04.csv in Silver/flattened_data folder.
+2026-03-31 16:59:29,716 | INFO | Data flattened successfully for date: 2002-04-05
+2026-03-31 16:59:29,716 | INFO | Flattened data saved to 2002-04-05.csv in Silver/flattened_data folder.
+2026-03-31 16:59:29,717 | INFO | Data flattened successfully for date: 2002-04-08
+2026-03-31 16:59:29,717 | INFO | Flattened data saved to 2002-04-08.csv in Silver/flattened_data folder.
+2026-03-31 16:59:29,718 | INFO | Data flattened successfully for date: 2002-04-09
+2026-03-31 16:59:29,718 | INFO | Flattened data saved to 2002-04-09.csv in Silver/flattened_data folder.
+2026-03-31 16:59:29,719 | INFO | Data flattened successfully for date: 2002-04-10
+2026-03-31 16:59:29,719 | INFO | Flattened data saved to 2002-04-10.csv in Silver/flattened_data folder.
+2026-03-31 16:59:29,720 | INFO | Data flattened successfully for date: 2002-04-11
+2026-03-31 16:59:29,721 | INFO | Flattened data saved to 2002-04-11.csv in Silver/flattened_data folder.
+2026-03-31 16:59:29,721 | INFO | Data flattened successfully for date: 2002-04-12
+2026-03-31 16:59:29,722 | INFO | Flattened data saved to 2002-04-12.csv in Silver/flattened_data folder.
+2026-03-31 16:59:29,722 | INFO | Data flattened successfully for date: 2002-04-15
+2026-03-31 16:59:29,723 | INFO | Flattened data saved to 2002-04-15.csv in Silver/flattened_data folder.
+2026-03-31 16:59:29,724 | INFO | Data flattened successfully for date: 2002-04-16
+2026-03-31 16:59:29,724 | INFO | Flattened data saved to 2002-04-16.csv in Silver/flattened_data folder.
+2026-03-31 16:59:29,725 | INFO | Data flattened successfully for date: 2002-04-17
+2026-03-31 16:59:29,726 | INFO | Flattened data saved to 2002-04-17.csv in Silver/flattened_data folder.
+2026-03-31 16:59:29,726 | INFO | Data flattened successfully for date: 2002-04-18
+2026-03-31 16:59:29,727 | INFO | Flattened data saved to 2002-04-18.csv in Silver/flattened_data folder.
+2026-03-31 16:59:29,728 | INFO | Data flattened successfully for date: 2002-04-19
+2026-03-31 16:59:29,729 | INFO | Flattened data saved to 2002-04-19.csv in Silver/flattened_data folder.
+2026-03-31 16:59:29,729 | INFO | Data flattened successfully for date: 2002-04-22
+2026-03-31 16:59:29,730 | INFO | Flattened data saved to 2002-04-22.csv in Silver/flattened_data folder.
+2026-03-31 16:59:29,730 | INFO | Data flattened successfully for date: 2002-04-23
+2026-03-31 16:59:29,731 | INFO | Flattened data saved to 2002-04-23.csv in Silver/flattened_data folder.
+2026-03-31 16:59:29,731 | INFO | Data flattened successfully for date: 2002-04-24
+2026-03-31 16:59:29,732 | INFO | Flattened data saved to 2002-04-24.csv in Silver/flattened_data folder.
+2026-03-31 16:59:29,732 | INFO | Data flattened successfully for date: 2002-04-25
+2026-03-31 16:59:29,733 | INFO | Flattened data saved to 2002-04-25.csv in Silver/flattened_data folder.
+2026-03-31 16:59:29,733 | INFO | Data flattened successfully for date: 2002-04-26
+2026-03-31 16:59:29,734 | INFO | Flattened data saved to 2002-04-26.csv in Silver/flattened_data folder.
+2026-03-31 16:59:29,734 | INFO | Data flattened successfully for date: 2002-04-29
+2026-03-31 16:59:29,735 | INFO | Flattened data saved to 2002-04-29.csv in Silver/flattened_data folder.
+2026-03-31 16:59:29,735 | INFO | Data flattened successfully for date: 2002-04-30
+2026-03-31 16:59:29,736 | INFO | Flattened data saved to 2002-04-30.csv in Silver/flattened_data folder.
+2026-03-31 16:59:29,736 | INFO | Data flattened successfully for date: 2002-05-02
+2026-03-31 16:59:29,737 | INFO | Flattened data saved to 2002-05-02.csv in Silver/flattened_data folder.
+2026-03-31 16:59:29,738 | INFO | Data flattened successfully for date: 2002-05-03
+2026-03-31 16:59:29,738 | INFO | Flattened data saved to 2002-05-03.csv in Silver/flattened_data folder.
+2026-03-31 16:59:29,739 | INFO | Data flattened successfully for date: 2002-05-06
+2026-03-31 16:59:29,740 | INFO | Flattened data saved to 2002-05-06.csv in Silver/flattened_data folder.
+2026-03-31 16:59:29,740 | INFO | Data flattened successfully for date: 2002-05-07
+2026-03-31 16:59:29,741 | INFO | Flattened data saved to 2002-05-07.csv in Silver/flattened_data folder.
+2026-03-31 16:59:29,742 | INFO | Data flattened successfully for date: 2002-05-08
+2026-03-31 16:59:29,742 | INFO | Flattened data saved to 2002-05-08.csv in Silver/flattened_data folder.
+2026-03-31 16:59:29,743 | INFO | Data flattened successfully for date: 2002-05-09
+2026-03-31 16:59:29,743 | INFO | Flattened data saved to 2002-05-09.csv in Silver/flattened_data folder.
+2026-03-31 16:59:29,744 | INFO | Data flattened successfully for date: 2002-05-10
+2026-03-31 16:59:29,744 | INFO | Flattened data saved to 2002-05-10.csv in Silver/flattened_data folder.
+2026-03-31 16:59:29,745 | INFO | Data flattened successfully for date: 2002-05-13
+2026-03-31 16:59:29,745 | INFO | Flattened data saved to 2002-05-13.csv in Silver/flattened_data folder.
+2026-03-31 16:59:29,746 | INFO | Data flattened successfully for date: 2002-05-14
+2026-03-31 16:59:29,746 | INFO | Flattened data saved to 2002-05-14.csv in Silver/flattened_data folder.
+2026-03-31 16:59:29,747 | INFO | Data flattened successfully for date: 2002-05-15
+2026-03-31 16:59:29,747 | INFO | Flattened data saved to 2002-05-15.csv in Silver/flattened_data folder.
+2026-03-31 16:59:29,748 | INFO | Data flattened successfully for date: 2002-05-16
+2026-03-31 16:59:29,748 | INFO | Flattened data saved to 2002-05-16.csv in Silver/flattened_data folder.
+2026-03-31 16:59:29,749 | INFO | Data flattened successfully for date: 2002-05-17
+2026-03-31 16:59:29,750 | INFO | Flattened data saved to 2002-05-17.csv in Silver/flattened_data folder.
+2026-03-31 16:59:29,751 | INFO | Data flattened successfully for date: 2002-05-20
+2026-03-31 16:59:29,751 | INFO | Flattened data saved to 2002-05-20.csv in Silver/flattened_data folder.
+2026-03-31 16:59:29,752 | INFO | Data flattened successfully for date: 2002-05-21
+2026-03-31 16:59:29,753 | INFO | Flattened data saved to 2002-05-21.csv in Silver/flattened_data folder.
+2026-03-31 16:59:29,753 | INFO | Data flattened successfully for date: 2002-05-22
+2026-03-31 16:59:29,754 | INFO | Flattened data saved to 2002-05-22.csv in Silver/flattened_data folder.
+2026-03-31 16:59:29,754 | INFO | Data flattened successfully for date: 2002-05-23
+2026-03-31 16:59:29,755 | INFO | Flattened data saved to 2002-05-23.csv in Silver/flattened_data folder.
+2026-03-31 16:59:29,755 | INFO | Data flattened successfully for date: 2002-05-24
+2026-03-31 16:59:29,756 | INFO | Flattened data saved to 2002-05-24.csv in Silver/flattened_data folder.
+2026-03-31 16:59:29,756 | INFO | Data flattened successfully for date: 2002-05-27
+2026-03-31 16:59:29,757 | INFO | Flattened data saved to 2002-05-27.csv in Silver/flattened_data folder.
+2026-03-31 16:59:29,757 | INFO | Data flattened successfully for date: 2002-05-28
+2026-03-31 16:59:29,758 | INFO | Flattened data saved to 2002-05-28.csv in Silver/flattened_data folder.
+2026-03-31 16:59:29,759 | INFO | Data flattened successfully for date: 2002-05-29
+2026-03-31 16:59:29,759 | INFO | Flattened data saved to 2002-05-29.csv in Silver/flattened_data folder.
+2026-03-31 16:59:29,760 | INFO | Data flattened successfully for date: 2002-05-30
+2026-03-31 16:59:29,760 | INFO | Flattened data saved to 2002-05-30.csv in Silver/flattened_data folder.
+2026-03-31 16:59:29,761 | INFO | Data flattened successfully for date: 2002-05-31
+2026-03-31 16:59:29,761 | INFO | Flattened data saved to 2002-05-31.csv in Silver/flattened_data folder.
+2026-03-31 16:59:29,897 | INFO | cleaned data is saved to clean_data_2026-03-31_16-59-29.csv in Silver.
+2026-03-31 16:59:29,897 | INFO | No error data found after applying the rules.
+2026-03-31 16:59:29,934 | INFO | Using ELT_PROJECT Database.
+2026-03-31 16:59:29,937 | INFO | currency_exchange_rate table created successfully and got committed.
+2026-03-31 16:59:30,143 | INFO | Rows got successfully inserted into currency_exchange_rate.
+2026-03-31 16:59:30,143 | INFO | Starting KPI calculations.
+2026-03-31 16:59:30,143 | INFO | Starting KPI-1 calculation.
+2026-03-31 16:59:30,591 | INFO | KPI-1 is successfully created.
+2026-03-31 16:59:30,592 | INFO | Starting KPI-2 calculation.
+2026-03-31 16:59:30,942 | INFO | KPI-2 is successfully created.
+2026-03-31 16:59:30,942 | INFO | Starting KPI-3 calculation.
+2026-03-31 16:59:31,152 | INFO | KPI-3 is successfully created.
+2026-03-31 16:59:31,153 | INFO | Starting KPI-4 calculation.
+2026-03-31 16:59:31,259 | INFO | KPI-4 is successfully created.
+2026-03-31 16:59:31,259 | INFO | Starting KPI-5 calculation.
+2026-03-31 16:59:31,342 | INFO | KPI-5 is successfully created.
+2026-03-31 16:59:31,343 | INFO | Starting KPI-6 calculation.
+2026-03-31 16:59:31,519 | INFO | KPI-6 is successfully created.
+2026-03-31 16:59:31,520 | INFO | Starting KPI-7 calculation.
+2026-03-31 16:59:31,688 | INFO | KPI-7 is successfully created.
+2026-03-31 16:59:31,688 | INFO | All KPIs have been calculated and stored in the database.
+2026-03-31 16:59:31,689 | INFO | Pipeline execution completed.
+2026-03-31 16:59:31,689 | INFO | cleaned data rows count: 2324
+2026-03-31 16:59:31,689 | INFO | error data rows count: 0
+2026-03-31 16:59:31,689 | INFO | Total rows generated by API : 2324
+2026-03-31 16:59:31,689 | INFO | ETL pipeline execution completed successfully.
+2026-03-31 16:59:31,690 | INFO | ******************************************** END ********************************************

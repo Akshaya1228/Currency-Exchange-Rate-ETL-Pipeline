@@ -1,0 +1,8 @@
+2026-04-07 04:32:52,807 | INFO | Pipelie Run By : Akshaya
+2026-04-07 04:32:52,807 | INFO | Project Name : Currency_Exchange_Rate_Pipeline
+2026-04-07 04:32:52,807 | INFO | Time : 2026-04-07 04:32:52.807823
+2026-04-07 04:32:52,807 | INFO | --------------------------------------------------------------------------------------------------------------------------
+2026-04-07 04:32:52,807 | INFO | Manual trigger activated at 2026-04-07. Running the ETL pipeline.
+2026-04-07 04:32:52,807 | INFO | Starting the ETL pipeline and the trigger: manual.
+2026-04-07 04:32:52,807 | ERROR | An error occurred during the ETL pipeline execution: logger() missing 1 required positional argument: 'format'
+2026-04-07 04:32:52,807 | ERROR | ETL pipeline execution failed .

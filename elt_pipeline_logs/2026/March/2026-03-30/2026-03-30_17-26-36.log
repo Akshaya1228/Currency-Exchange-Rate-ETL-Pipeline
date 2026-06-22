@@ -1,0 +1,34 @@
+2026-03-30 17:26:36,330 | INFO | Pipelie Run By : Akshaya
+2026-03-30 17:26:36,330 | INFO | Project Name : Currency_Exchange_Rate_Pipeline
+2026-03-30 17:26:36,330 | INFO | Time : 2026-03-30 17:26:36.330400
+2026-03-30 17:26:36,330 | INFO | --------------------------------------------------------------------------------------------------------------------------
+2026-03-30 17:26:36,330 | INFO | Manual trigger activated at 2026-03-30. Running the ETL pipeline.
+2026-03-30 17:26:36,330 | INFO | Starting the ETL pipeline and the trigger: manual.
+2026-03-30 17:26:36,740 | INFO | url used to fetch the API is : https://api.frankfurter.dev/v1/2026-03-28..2026-03-27?base=USD
+2026-03-30 17:26:36,742 | INFO | Data saved successfully to new_raw_data.json
+2026-03-30 17:26:36,743 | INFO | Raw data loaded successfully from the file new_raw_data.json.
+2026-03-30 17:26:36,744 | INFO | 2026-03-27.json is saved to Historic_raw_data folder and the currencies got are 29.
+2026-03-30 17:26:36,750 | INFO | Data flattened successfully for date: 2026-03-27
+2026-03-30 17:26:36,753 | INFO | Flattened data saved to 2026-03-27.csv in Silver/flattened_data folder.
+2026-03-30 17:26:36,758 | INFO | cleaned data is saved to clean_data_2026-03-30_17-26-36.csv in Silver. The number of rows in clean data are 29.
+2026-03-30 17:26:36,759 | INFO | No error data found after applying the rules.
+2026-03-30 17:26:36,793 | INFO | Using ELT_PROJECT Database.
+2026-03-30 17:26:36,795 | INFO | currency_exchange_rate table created successfully and got committed.
+2026-03-30 17:26:36,803 | INFO | Rows got successfully inserted into currency_exchange_rate and the rows got inserted are 29.
+2026-03-30 17:26:36,804 | INFO | Starting KPI calculations.
+2026-03-30 17:26:36,804 | INFO | Starting KPI-1 calculation.
+2026-03-30 17:26:36,833 | INFO | KPI-1 is successfully created.
+2026-03-30 17:26:36,833 | INFO | Starting KPI-2 calculation.
+2026-03-30 17:26:36,843 | INFO | KPI-2 is successfully created.
+2026-03-30 17:26:36,843 | INFO | Starting KPI-3 calculation.
+2026-03-30 17:26:36,855 | INFO | KPI-3 is successfully created.
+2026-03-30 17:26:36,856 | INFO | Starting KPI-4 calculation.
+2026-03-30 17:26:36,864 | INFO | KPI-4 is successfully created.
+2026-03-30 17:26:36,865 | INFO | Starting KPI-5 calculation.
+2026-03-30 17:26:36,874 | INFO | KPI-5 is successfully created.
+2026-03-30 17:26:36,874 | INFO | Starting KPI-6 calculation.
+2026-03-30 17:26:36,884 | INFO | KPI-6 is successfully created.
+2026-03-30 17:26:36,884 | INFO | Starting KPI-7 calculation.
+2026-03-30 17:26:36,894 | INFO | KPI-7 is successfully created.
+2026-03-30 17:26:36,894 | INFO | All KPIs have been calculated and stored in the database.
+2026-03-30 17:26:36,894 | INFO | Pipeline execution completed.
